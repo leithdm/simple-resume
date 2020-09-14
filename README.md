@@ -1,4 +1,6 @@
-# Resume template
+# Simple Resume: an online resume template
+
+A clean and customizable resume template.
 
 ## External Libraries:
 
